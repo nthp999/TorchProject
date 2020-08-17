@@ -4,9 +4,10 @@ Tên miền: **luyenthicungtorch.com**
 Nhà cung cấp: [Namecheap](https://www.namecheap.com/)
 ### Giới Thiệu:
 * Nhà cung cấp quốc tế. 
-*	Hỗ trợ dịch vụ 24/7.
-*	Không yêu cầu chứng thực khi mua domain name và hosting.
-*	Hỗ trợ thanh toán bằng thẻ Visa/Master hoặc Paypal.
+* Hỗ trợ dịch vụ 24/7.
+* Không yêu cầu chứng thực khi mua domain name và hosting.
+* Cung cấp Cpanel account.
+* Hỗ trợ thanh toán bằng thẻ Visa/Master hoặc Paypal.
 ### Chi tiết chi phí:
 1.	Domain name:
     * luyenthicungtorch.com

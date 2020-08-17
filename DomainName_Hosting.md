@@ -18,3 +18,5 @@ Nhà cung cấp: [Namecheap](https://www.namecheap.com/)
 3. Theme:
     * Tùy vào loại theme được chọn
     * **$15 - $60**
+    
+![cost1](Images/Cost.PNG)

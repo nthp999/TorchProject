@@ -1,2 +1,0 @@
-# TorchProject
-Detail of Wordpress

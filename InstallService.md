@@ -5,7 +5,9 @@
 - Download and install
 
 `wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
+
 rpm -ivh mysql-community-release-el7-5.noarch.rpm
+
 dnf install mysql-server`
 
 - Start MySQL

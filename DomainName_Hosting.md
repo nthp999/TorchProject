@@ -10,7 +10,7 @@ Nhà cung cấp: [Namecheap](https://www.namecheap.com/)
 * Hỗ trợ thanh toán bằng thẻ Visa/Master hoặc Paypal.
 ### Chi tiết chi phí:
 1.	Domain name:
-    * luyenthicungtorch.com
+    * onthicungtorch.com
     * **$9.06/yr**
 2.	Hosting:
     * Loại: Shared hosting

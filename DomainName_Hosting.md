@@ -1,5 +1,5 @@
 # CHI PHÍ CHO DOMAIN VÀ HOSTING
-Tên miền: **luyenthicungtorch.com**
+Tên miền: **onthicungtorch.com**
 
 Nhà cung cấp: [Namecheap](https://www.namecheap.com/)
 ### Giới Thiệu:

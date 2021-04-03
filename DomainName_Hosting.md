@@ -1,5 +1,6 @@
 # CHI PHÍ CHO DOMAIN VÀ HOSTING
 Tên miền: **onthicungtorch.com**
+Email: **torch.giasu@gmail.com**
 
 Nhà cung cấp: [Namecheap](https://www.namecheap.com/)
 ### Giới Thiệu:
